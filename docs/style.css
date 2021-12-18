@@ -82,15 +82,16 @@
 }
 #home h1{
 
-font-size: 50px;
-padding: 12px;
-color: white;
-font-family: 'Ephesis', cursive;
-font-weight: bolder;
-border:solid white 2px;
-background-color: black;
-opacity: 0.3;
-border-radius: 20px;
+    font-size: 50px;
+    padding: 12px;
+    color: black;
+    font-family: 'Ephesis', cursive;
+    font-weight: bolder;
+    border:solid white 2px;
+    background-color: rgb(243, 235, 235);
+    opacity: 0.7;
+    border-radius: 20px;
+    
 
 }
 #home p{
