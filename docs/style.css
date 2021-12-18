@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    
 }
 
 #navbar{
@@ -19,7 +18,7 @@
     width:100%;
     
     z-index: -1;
-    
+    opacity: 0.7;
 }
 
 .logo{
@@ -44,7 +43,7 @@
     margin: 4px 16px;
     text-decoration: none;
     font-family: sans-serif;
-    font-size: 30px;
+    font-size: 25px;
     color: black;
  
     
@@ -54,19 +53,18 @@
     color: black;
     font-size: 20px;
     border-radius: 5px;
-    
    
 }
 #home::before{
     content: "";
-    background: url("bg.jpg")no-repeat center center/cover ;
+    background: url("/images/bg.jpg")no-repeat center center/cover ;
     position: absolute;
     height: 642px;
     top:0px;
     left:0px;
     width: 100%;
     z-index: -1;
-    
+    opacity:0.8;
     
 
 }
@@ -82,16 +80,15 @@
 }
 #home h1{
 
-    font-size: 50px;
-    padding: 12px;
-    color: black;
-    font-family: 'Ephesis', cursive;
-    font-weight: bolder;
-    border:solid white 2px;
-    background-color: rgb(243, 235, 235);
-    opacity: 0.7;
-    border-radius: 20px;
-    
+font-size: 50px;
+padding: 12px;
+color: black;
+font-family: 'Ephesis', cursive;
+font-weight: bolder;
+border:solid white 2px;
+background-color: rgb(243, 235, 235);
+
+border-radius: 20px;
 
 }
 #home p{
@@ -196,8 +193,8 @@ background-color: rgb(218, 40, 40);
     display: flex;
    height: 400px;
     width: 100%;
-    background: url("bg1.jpg")no-repeat center center/cover ;
-    opacity: 0.8;
+    background: url("/images/bg1.jpg")no-repeat center center/cover ;
+    opacity: 0.5;
     align-items: center;
     justify-content: center;
     
