@@ -1,0 +1,14 @@
+#navbar{
+    flex-direction: column;
+}
+#navbar::before{
+    font-size: 16px;
+    margin: 0px 5px;
+}
+#navbar ul li a{
+    margin: 20px 11px;
+      font-size: 16px;
+}
+#home{
+    height: 516px;
+}

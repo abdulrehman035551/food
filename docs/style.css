@@ -57,7 +57,7 @@
 }
 #home::before{
     content: "";
-    background: url("bg.jpg")no-repeat center center/cover ;
+    background: url("/images/bg.jpg")no-repeat center center/cover ;
     position: absolute;
     height: 642px;
     top:0px;
@@ -86,7 +86,7 @@ color: white;
 font-family: 'Ephesis', cursive;
 font-weight: bolder;
 border:solid white 2px;
-background-color: black;f
+background-color: black;
 opacity: 0.3;
 border-radius: 20px;
 
@@ -193,7 +193,7 @@ background-color: rgb(218, 40, 40);
     display: flex;
    height: 400px;
     width: 100%;
-    background: url("bg1.jpg")no-repeat center center/cover ;
+    background: url("/images/bg1.jpg")no-repeat center center/cover ;
     opacity: 0.5;
     align-items: center;
     justify-content: center;
