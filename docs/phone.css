@@ -12,7 +12,7 @@
     padding-bottom: 8px;
     display: flex;
     flex-wrap: wrap;
-    
+    margin: 3px;
 }
 #navbar ul{
     flex-wrap: wrap;
@@ -107,7 +107,4 @@
 }
 #services{
     font-size: 20px;
-}
-.footer{
- height: 200px;
 }
