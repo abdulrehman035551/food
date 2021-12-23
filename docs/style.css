@@ -6,7 +6,8 @@
 #navbar{
     display: flex;
     align-items: center;
-  
+    flex-direction: column;
+    flex-wrap: wrap;
    
 }
 #navbar::before{
@@ -51,8 +52,13 @@
     font-family: sans-serif;
     font-size: 40px;
     color: black;
- 
-    
+    margin: 20px 11px;
+    font-size: 20px;
+    font-size: 1rem;
+    padding: 0px 7px;
+    padding-bottom: 8px;
+    flex-wrap: wrap;
+}
 }
 #navbar ul li a:hover{
     background-color: white;
