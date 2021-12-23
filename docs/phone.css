@@ -64,3 +64,35 @@
     font-size: 13px;
     padding: 4px 8px;
 }
+#services .box{
+  
+    border-radius: 20px;
+    margin: 20px;
+    background-color:rgb(243, 236, 236);
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    width: 70%;
+    height: 406px;
+    color: rgb(53, 41, 41);
+    border: solid red 1px;
+   
+    
+}
+.clients {
+    width: auto;
+    
+    
+ 
+}
+.clients1 img{
+    width: 80px;
+    
+}
+.clients2 img{
+    width: 80px;
+}
+.clients3 img{
+    width: 80px;
+    
+    
+}
