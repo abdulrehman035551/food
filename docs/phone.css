@@ -107,4 +107,11 @@
 }
 #services{
     font-size: 20px;
+    
+}
+#services .box{
+    margin-left: 45px;
+}
+.heading h1{
+    font-size: 25px;
 }
