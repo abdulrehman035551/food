@@ -11,8 +11,10 @@
 }
 /* Home section */
 #home{
+    display: flex;
     height: 370px; 
     padding: 3px 28px;
+    flex-wrap: wrap;
 }
 
 #home::before{
