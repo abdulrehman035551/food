@@ -12,6 +12,7 @@
     padding-bottom: 8px;
     display: flex;
     flex-wrap: wrap;
+    
 }
 #navbar ul{
     flex-wrap: wrap;
