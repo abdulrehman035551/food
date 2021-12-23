@@ -12,3 +12,11 @@
 #home{
     height: 516px;
 }
+#navbar ul{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(243, 243, 243);
+    border: solid 1px rgb(243, 243, 243);
+    border-radius: 20px;
+    opacity: 0.7;
+}
