@@ -13,6 +13,9 @@
     display: flex;
     flex-wrap: wrap;
 }
+#navbar ul{
+    flex-wrap: wrap;
+}
 /* Home section */
 #home{
     display: flex;
@@ -101,5 +104,5 @@
     
 }
 #services{
-    font-size: 10px;
+    font-size: 20px;
 }
