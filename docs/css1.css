@@ -2,8 +2,8 @@
 *{
     margin: 0;
     padding: 0;
-   
-   
+    background-color:rgb(243, 236, 236) ;
+    background: url("211.jpg")no-repeat center center/cover ;
    
     
 }
@@ -16,7 +16,7 @@
         margin-left: 37%;
         margin-top: 5%;
         border-radius: 3px;
-        background-color: rgb(107, 101, 101);
+        background-color: rgb(12, 12, 12);
         opacity: 0.7;
         border-radius: 10px;
         box-shadow: white;
@@ -37,7 +37,7 @@
     font-family: 'Fruktur', cursive;
     border-radius: 10px;
     color: black;
-    background-color: white;
+    background-color: black;
     margin-left: 25px;
     
     }
