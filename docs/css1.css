@@ -60,38 +60,39 @@
         width: 170px;
         height: 25px;
         margin-top: 8px;
-        ffont-family: 'Times New Roman', Times, serif;
+        font-family: 'Times New Roman', Times, serif;
         border-radius: 10px;
         color: rgb(107, 101, 101);
     background-color: white;
     margin-left: 13px;
+    color: black;
     
     
     }
     #username{
         font-family: 'Times New Roman', Times, serif;
-        color: black;
+        color: white;
         margin-left: 13px;
-        background-color:pink;
+        background-color:#ff5aac;
         background-image: url("211.jpg");
         text-decoration:underline;
        
     }
 #pass{
     font-family: 'Times New Roman', Times, serif;
-    color: black;
-   background-color: white;
+    color: white;
+  
     margin-left: 13px;
-    background-color: pink;
+    background-color: #ff5aac;
     background-image: url("211.jpg");
     text-decoration:underline;
 }
 h1{
     font-family: 'Times New Roman', Times, serif;
     margin-left: 5px;
-    color: black;
+    color: white;
     margin-left: 13px;
-    background-color: pink;
+    background-color: #ff5aac;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-image: url("211.jpg");
     text-decoration:underline;
