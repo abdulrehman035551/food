@@ -1,0 +1,98 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    background:black;
+   
+   
+    
+}
+    .box{
+        border:solid rgb(107, 101, 101) 2px;
+        padding: 50px;
+        width: 18%;
+        height: 250px;
+        justify-content: center;
+        margin-left: 37%;
+        margin-top: 5%;
+        border-radius: 3px;
+        background-color: rgb(107, 101, 101);
+        opacity: 0.7;
+        border-radius: 10px;
+        box-shadow: white;
+
+        
+        
+        
+        
+    }
+    form{
+        
+    }
+    #btn{
+        width: 150px;
+    margin-left: 14px;
+    height: 35px;
+    background-color: white;
+    font-family: 'Fruktur', cursive;
+    border-radius: 10px;
+    color: black;
+    background-color: white;
+    margin-left: 25px;
+    
+    }
+    #Email{
+        width: 170px;
+        height: 25px;
+        margin-top: 8px;
+        font-family:serif;
+        font-family: 'Fruktur', cursive;
+        border-radius: 10px;
+         
+    background-color: white;
+    margin-left: 13px;
+    color: black;
+    }
+    #password{
+        width: 170px;
+        height: 25px;
+        margin-top: 8px;
+        font-family: 'Fruktur', cursive;
+        border-radius: 10px;
+        color: rgb(107, 101, 101);
+    background-color: white;
+    margin-left: 13px;
+    }
+    #username{
+        font-family: 'Fruktur', cursive;
+        color: white;
+        margin-left: 13px;
+        background-color: rgb(107, 101, 101);;
+    }
+#pass{
+    font-family: 'Fruktur', cursive;
+    color: white;
+    background-color:rgb(107, 101, 101);
+    margin-left: 13px;
+}
+h1{
+    font-family: 'Zen Antique Soft', serif;
+    margin-left: 5px;
+    color: black;
+    margin-left: 13px;
+    background-color: rgb(107, 101, 101);
+    font-family: 'Fruktur', cursive;
+    
+}
+#btn:hover{
+    background-color: rgb(233, 207, 207);
+    border-radius: 15px;
+    border:solid rgb(240, 237, 237) 5px;
+}
+#Email:hover{
+   
+    border-radius: 10px;
+    border:solid rgb(240, 237, 237) 5px;
+}
+    
+
