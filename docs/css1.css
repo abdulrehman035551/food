@@ -33,7 +33,7 @@
         
     }
     #btn{
-        width: 150px;
+        width: 70px;
     margin-left: 14px;
     height: 35px;
     background-color:#FFFFFF;
@@ -41,7 +41,7 @@
     border-radius: 10px;
     color: black;
     
-    margin-left: 25px;
+    margin-left: 65px;
     
     }
     #Email{
@@ -75,7 +75,7 @@
         margin-left: 13px;
         background-color:#E11b8d;
         background-image: url("211.jpg");
-        text-decoration:underline;
+        
         border-radius: 10px;
        
     }
@@ -86,7 +86,7 @@
     margin-left: 13px;
     background-color: #E11b8d;
     background-image: url("211.jpg");
-    text-decoration:underline;
+    
     border-radius: 10px;
 }
 h1{
@@ -97,7 +97,7 @@ h1{
     background-color: #E11b8d;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-image: url("211.jpg");
-    text-decoration:underline;
+    
     margin-bottom: 15px;
     
 }
