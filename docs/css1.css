@@ -1,15 +1,16 @@
 
-*{
+body{
     margin: 0;
     padding: 0;
+    border: solid none 1px;
+    height: 610px;
     
-    background: whitesmoke;
-    
- 
-   
-    
+    background-image:url("211.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
-    .box{
+ .box{
        
         padding: 50px;
         width: 18%;
@@ -21,7 +22,13 @@
         background-color: aliceblue;
         font-family: 'Times New Roman', Times, serif;
         border-radius: 10px;
-        border:solid red 1px;
+        border:solid none 1px;
+        align-items: center;
+        display: block;
+        flex-direction: column;
+        align-items: center;
+        opacity: 0.9;
+        box-shadow: 0px 0px 5px 10px rgb(97, 88, 88);
         
 
         
@@ -34,14 +41,14 @@
     }
     #btn{
         width: 70px;
-    margin-left: 14px;
+    
     height: 35px;
     background-color:#FFFFFF;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-radius: 10px;
     color: black;
     
-    margin-left: 65px;
+    margin-left: 75px;
     
     }
     #Email{
@@ -53,7 +60,8 @@
         border-radius: 10px;
          color: black;
     background-color: white;
-    margin-left: 13px;
+    margin-left: 23px;
+    text-align: center;
     
     }
     #password{
@@ -64,26 +72,28 @@
         border-radius: 10px;
         color: rgb(107, 101, 101);
     background-color: white;
-    margin-left: 13px;
+    margin-left: 23px;
     color: black;
+    text-align: center;
     
     
     }
     #username{
         font-family: 'Times New Roman', Times, serif;
         color: white;
-        margin-left: 13px;
+        margin-left: 23px;
         background-color:#E11b8d;
         background-image: url("211.jpg");
         
         border-radius: 10px;
+        text-align: center;
        
     }
 #pass{
     font-family: 'Times New Roman', Times, serif;
     color: white;
   
-    margin-left: 13px;
+    margin-left: 23px;
     background-color: #E11b8d;
     background-image: url("211.jpg");
     
@@ -91,13 +101,13 @@
 }
 h1{
     font-family: 'Times New Roman', Times, serif;
-    margin-left: 5px;
+    
     color: white;
-    margin-left: 13px;
+    margin-left: 23px;
     background-color: #E11b8d;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-image: url("211.jpg");
-    
+    width: 174px;
     margin-bottom: 15px;
     
 }
@@ -116,5 +126,6 @@ h1{
     border-radius: 10px;
     border:solid rgb(240, 237, 237) 5px;
 }
-    
-
+.value{
+    margin-left: 1px;
+}
