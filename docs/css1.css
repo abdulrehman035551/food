@@ -73,9 +73,10 @@
         font-family: 'Times New Roman', Times, serif;
         color: white;
         margin-left: 13px;
-        background-color:#ff5aac;
+        background-color:#E11b8d;
         background-image: url("211.jpg");
         text-decoration:underline;
+        border-radius: 10px;
        
     }
 #pass{
@@ -83,19 +84,21 @@
     color: white;
   
     margin-left: 13px;
-    background-color: #ff5aac;
+    background-color: #E11b8d;
     background-image: url("211.jpg");
     text-decoration:underline;
+    border-radius: 10px;
 }
 h1{
     font-family: 'Times New Roman', Times, serif;
     margin-left: 5px;
     color: white;
     margin-left: 13px;
-    background-color: #ff5aac;
+    background-color: #E11b8d;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-image: url("211.jpg");
     text-decoration:underline;
+    margin-bottom: 15px;
     
 }
 #btn:hover{
