@@ -5,11 +5,8 @@ body{
     border: solid none 1px;
     height: 610px;
     background-color: whitesmoke;
-    background-image:url("21.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-}
+    background: linear-gradient(120deg,rgb(197, 118, 132),rgb(226, 196, 196));
+   }
  .box{
        
         padding: 50px;
@@ -30,21 +27,15 @@ body{
         opacity: 0.9;
         box-shadow: 0px 0px 5px 10px rgb(97, 88, 88);
         margin-right: 455px;
-
-        
-        
-        
-        
-    }
-    form{
-        
-    }
+         }
+   
     #btn{
         width: 70px;
     
     height: 35px;
     background-color:#FFFFFF;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
     border-radius: 10px;
     color: black;
     
@@ -62,6 +53,7 @@ body{
     background-color: white;
     margin-left: 23px;
     text-align: center;
+    font-weight: bolder;
     
     }
     #password{
@@ -75,16 +67,16 @@ body{
     margin-left: 23px;
     color: black;
     text-align: center;
-    
+    font-weight: bolder;
     
     }
     #username{
         font-family: 'Times New Roman', Times, serif;
         color: white;
         margin-left: 23px;
-        background-color:#E11b8d;
         background-image: url("211.jpg");
-        
+        background: fixed;
+        font-weight: bolder;
         border-radius: 10px;
         text-align: center;
        
@@ -92,23 +84,18 @@ body{
 #pass{
     font-family: 'Times New Roman', Times, serif;
     color: white;
-  
+    font-weight: bolder;
     margin-left: 23px;
-    background-color: #E11b8d;
-    background-image: url("211.jpg");
-    
-    border-radius: 10px;
+     border-radius: 10px;
 }
 h1{
     font-family: 'Times New Roman', Times, serif;
-    
     color: white;
     margin-left: 23px;
-    background-color: #E11b8d;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image: url("211.jpg");
+    font-weight: bolder;
     width: 174px;
     margin-bottom: 15px;
+    
     
 }
 #btn:hover{
@@ -122,9 +109,10 @@ h1{
     border:solid rgb(240, 237, 237) 5px;
 }
 #password:hover{
-   
+    
     border-radius: 10px;
     border:solid rgb(240, 237, 237) 5px;
+    
 }
 .value{
     margin-left: 1px;
